@@ -1,0 +1,42 @@
+.container {
+     margin: 0 auto;
+}
+
+.image {
+    padding-left: 75px;
+}
+
+body {
+     background: #cbb6a6;
+}
+
+h1{
+    font-family: 'Allura', cursive;
+    color: #1f535d;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+ul, li{
+    font-family: futura;
+    text-align: center;
+}
+
+ul {
+    color: #b9d3be;
+    font-size: 28px;
+}
+
+li {
+    color: #f1e4b0;
+    list-style: decimal-leading-zero;
+
+}
+
+#steps {
+    width: 400px;
+    background: #1f535d;
+    padding: 10px;
+    margin: 0 auto;
+}
