@@ -1,3 +1,36 @@
+.container {
+     margin: 0 auto;
+}
+
 body {
-    background: #aa8cc5;
+     background: #cbb6a6;
+}
+
+form {
+    width: 400px;
+    margin: 0 auto;
+    background: #b8d5bc;
+}
+
+h1{
+    font-family: 'Allura', cursive;
+    color: #1f535d;
+    text-align: center;
+
+}
+
+h3, p{
+    font-family: futura;
+}
+
+h3 {
+    color: #2d3635;
+}
+
+p {
+    color: #1f535d;
+}
+
+#submit {
+    color:#c7a213;
 }
